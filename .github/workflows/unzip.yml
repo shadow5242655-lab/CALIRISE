@@ -28,5 +28,3 @@ jobs:
           git add -A
           git commit -m "Auto-extract website from zip" || echo "No changes to commit"
           git push
-
-
